@@ -1,1 +1,2 @@
-# myDemoProject
+# myDemoProject 
+Testing the project
